@@ -1,0 +1,2 @@
+# staticx
+A hyphen experiment
